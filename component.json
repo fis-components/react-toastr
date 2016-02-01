@@ -1,0 +1,16 @@
+{
+    "name": "react-toastr",
+    "description": "React.js toastr component",
+    "repos": "https://github.com/tomchentw/react-toastr.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "classnames": "^2.2.3",
+        "element-class": "^0.2.2",
+        "react-addons-update": "^0.14.6",
+        "react-dom": "^0.14.6",
+        "react": "^0.14.6"
+    },
+    "version": "2.4.0"
+}
